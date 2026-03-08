@@ -73,12 +73,6 @@
 </div>
 <div align="center">
 
-### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=DakshRJain737&limit=5&theme=panda&combine_all_yearly_contributions=true)
-
-</div>
-
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/DakshRJain737
